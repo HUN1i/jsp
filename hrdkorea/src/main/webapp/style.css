@@ -1,0 +1,8 @@
+header{
+	text-align : center;
+	background-color : green;
+}
+footer{
+	position: absolute;
+	bottom: 0;
+}
