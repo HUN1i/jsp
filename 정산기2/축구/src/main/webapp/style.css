@@ -1,0 +1,15 @@
+header{
+	background-color: blue;
+}
+footer{
+	position:absolute;
+	bottom: 0;
+	background-color: blue;
+}
+nav{
+	background-color: skyblue;
+}
+
+section{
+	background-color: gray;
+}
